@@ -11,12 +11,12 @@ Welcome to testingDocs's documentation!
    :caption: Contents:
 
 More information
-==================
+----------------
 
 * :ref:`community`
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`
