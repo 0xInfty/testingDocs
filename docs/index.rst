@@ -13,8 +13,8 @@ Welcome to testingDocs's documentation!
 More information
 ----------------
 
-* :ref:`community`
 * :ref:`cheatsheet`
+* :ref:`community`
 
 Indices and tables
 ------------------
