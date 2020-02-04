@@ -10,7 +10,10 @@ Welcome to testingDocs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+More information
+==================
 
+* :ref:`community`
 
 Indices and tables
 ==================
