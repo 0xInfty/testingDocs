@@ -14,6 +14,7 @@ More information
 ----------------
 
 * :ref:`community`
+* :ref:`cheatsheet`
 
 Indices and tables
 ------------------
@@ -25,6 +26,7 @@ Indices and tables
 .. toctree::
    :hidden:
 
+   cheatsheet
    community
 
 ----
